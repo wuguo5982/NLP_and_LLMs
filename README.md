@@ -101,15 +101,17 @@ Tools and best practices for developing, deploying, and monitoring LLM-powered s
 
 ---
 
-## Knowledge Graphs *(In Development)*
+## Agentic AI *(In Development)*
 
-Structured graphs that represent semantic relationships between entities and concepts.
+LLMs are evolving into **autonomous agents** capable of reasoning, memory retention, planning, and task execution.
+Build a multimodal system supporting with text-based Q&A, tool augmentation, image understanding, and interactive chatbots.
 
-**Benefits:**
-- Enable symbolic reasoning alongside neural models  
-- Support hybrid querying and retrieval  
-- Improve transparency and explainability  
-- Integrate well with ontologies and graph-based search engines
+### Leading Agentic AI Ecosystems:
+
+- **LangGraph** – Graph-based control flow for dynamic LLM agent interactions  
+- **AutoGen** – Framework for collaborative multi-agent task solving  
+- **CrewAI** – Role-based agents collaborating as a structured team  
+- **OpenAgents** – Open-source ecosystem for tool-using, memory-aware LLM agents
 
 ---
 
@@ -127,15 +129,18 @@ Structured graphs that represent semantic relationships between entities and con
 
 ---
 
-## What’s Next: Agentic AI
+## Knowledge Graphs *(In Development)*
 
-LLMs are evolving into **autonomous agents** capable of reasoning, memory retention, planning, and task execution.
+Structured graphs that represent semantic relationships between entities and concepts.
 
-### Leading Agentic AI Ecosystems:
-
-- **LangGraph** – Graph-based control flow for dynamic LLM agent interactions  
-- **AutoGen** – Framework for collaborative multi-agent task solving  
-- **CrewAI** – Role-based agents collaborating as a structured team  
-- **OpenAgents** – Open-source ecosystem for tool-using, memory-aware LLM agents
+**Benefits:**
+- Enable symbolic reasoning alongside neural models  
+- Support hybrid querying and retrieval  
+- Improve transparency and explainability  
+- Integrate well with ontologies and graph-based search engines
 
 ---
+
+
+
+
