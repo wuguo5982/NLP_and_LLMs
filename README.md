@@ -92,11 +92,12 @@ RAG enhances LLM output by injecting context from external knowledge sources.
 
 Tools and best practices for developing, deploying, and monitoring LLM-powered systems:
 
-- **MLflow** – Track model training, hyperparameters, and performance metrics  
+- **MLflow** – Track model training, hyperparameters, and performance metrics
+- **REST APIs & CI/CD Pipelines** – Automate testing, deployment, and integration into real-world systems  
 - **Streamlit** – Build fast interactive frontends for LLM applications  
 - **Hugging Face** – Access, fine-tune, and deploy open-source transformer models  
 - **LangSmith** – Native to LangChain; used for debugging, evaluation, and monitoring agent chains  
-- **REST APIs & CI/CD Pipelines** – Automate testing, deployment, and integration into real-world systems
+
 
 ---
 
