@@ -116,19 +116,6 @@ Build a multimodal system supporting with text-based Q&A, tool augmentation, ima
 
 ---
 
-## AGNO Framework *(In Development)*
-
-**AGNO** is a modular, agentic framework that combines advanced LLM capabilities with system integration tools.
-
-**Design Goals:**
-- Multi-agent orchestration and collaboration  
-- Long-term memory and vector-based context retrieval  
-- Knowledge grounding via web search and document parsing  
-- Flexible pipelines with dynamic tool calling
-
-> Stay tuned for future updates.
-
----
 
 ## Knowledge Graphs *(In Development)*
 
