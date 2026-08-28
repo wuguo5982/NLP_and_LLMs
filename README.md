@@ -37,9 +37,8 @@ Core NLP techniques that power language understanding, information extraction, a
 - **Google (Gemini)** – Gemini 1.5 / 2.x family; multimodal models with long-context reasoning and native integration with Google AI services
 - **Meta (Llama)** – Open-weight Llama 3.x / 4 family designed for flexible deployment, fine-tuning, and enterprise AI applications
 - **DeepSeek** – DeepSeek-V3 and R1 family; strong reasoning and coding performance with cost-efficient open-weight options
-- **Mistral AI** – Mistral and Mixtral families; efficient open and commercial models for enterprise and local deployment
 - **xAI (Grok)** – Grok family with reasoning, coding, tool use, and real-time information capabilities
-- **Others** – Cohere, Qwen (Alibaba), Microsoft Phi, NVIDIA Nemotron, etc.
+- **Others** 
 
 ---
 
