@@ -107,12 +107,19 @@ LLMs are evolving into **autonomous agents** capable of reasoning, memory retent
 
 Build a multimodal system supporting with text-based Q&A, tool augmentation, image understanding, and interactive chatbots.
 
+## Agentic AI *(In Development)*
+
+LLMs are evolving into **autonomous agents** capable of reasoning, memory retention, planning, tool use, and task execution.
+
+Building multimodal Agentic AI systems supporting text-based Q&A, tool augmentation, image understanding, interactive chatbots, and **Model Context Protocol (MCP)** integration for connecting agents with external tools, APIs, databases, and real-time information sources.
+
 ### Leading Agentic AI Ecosystems:
 
-- **LangGraph** – Graph-based control flow for dynamic LLM agent interactions  
-- **AutoGen** – Framework for collaborative multi-agent task solving  
-- **CrewAI** – Role-based agents collaborating as a structured team  
+- **LangGraph** – Graph-based control flow for dynamic LLM agent interactions
+- **AutoGen** – Framework for collaborative multi-agent task solving
+- **CrewAI** – Role-based agents collaborating as a structured team
 - **OpenAgents** – Open-source ecosystem for tool-using, memory-aware LLM agents
+- **MCP (Model Context Protocol)** – Standard protocol for connecting AI agents with external tools, data sources, APIs, vector databases, and real-time services
 
 ---
 
