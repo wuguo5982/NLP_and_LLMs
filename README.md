@@ -32,11 +32,14 @@ Core NLP techniques that power language understanding, information extraction, a
 
 ### 1). Major Model Providers
 
-- **OpenAI** – GPT-3.5, GPT-4, GPT-4o, GPT-4o-mini  
-- **Meta (LLaMA 3)** – Open-source LLMs designed for flexibility and performance  
-- **Google (Gemini Pro)** – Multimodal LLMs with advanced reasoning capabilities  
-- **DeepSeek R1** – Cost-effective and lightweight Chinese LLM  
-- **Others** – Claude (Anthropic), Mistral, etc.
+- **OpenAI** – GPT-4o, GPT-4.1, GPT-5 family; multimodal models for reasoning, coding, vision, tool use, and agentic workflows
+- **Anthropic (Claude)** – Claude 3.5 / 3.7 / 4 family; strong reasoning, coding, long-context understanding, and agentic use cases
+- **Google (Gemini)** – Gemini 1.5 / 2.x family; multimodal models with long-context reasoning and native integration with Google AI services
+- **Meta (Llama)** – Open-weight Llama 3.x / 4 family designed for flexible deployment, fine-tuning, and enterprise AI applications
+- **DeepSeek** – DeepSeek-V3 and R1 family; strong reasoning and coding performance with cost-efficient open-weight options
+- **Mistral AI** – Mistral and Mixtral families; efficient open and commercial models for enterprise and local deployment
+- **xAI (Grok)** – Grok family with reasoning, coding, tool use, and real-time information capabilities
+- **Others** – Cohere, Qwen (Alibaba), Microsoft Phi, NVIDIA Nemotron, etc.
 
 ---
 
