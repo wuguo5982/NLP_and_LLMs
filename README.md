@@ -101,11 +101,6 @@ Tools and best practices for developing, deploying, and monitoring LLM-powered s
 
 ---
 
-## Agentic AI *(In Development)*
-
-LLMs are evolving into **autonomous agents** capable of reasoning, memory retention, planning, and task execution. 
-
-Build a multimodal system supporting with text-based Q&A, tool augmentation, image understanding, and interactive chatbots.
 
 ## Agentic AI *(In Development)*
 
